@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iti-home1-sprint1/static/css/main.073c9b0a.css",
-    "main.js": "/iti-home1-sprint1/static/js/main.0daa54c9.js",
-    "static/js/53.f819e912.chunk.js": "/iti-home1-sprint1/static/js/53.f819e912.chunk.js",
+    "main.css": "/iti-home1-sprint1/static/css/main.af2f1d43.css",
+    "main.js": "/iti-home1-sprint1/static/js/main.92580f07.js",
+    "static/js/745.25f28223.chunk.js": "/iti-home1-sprint1/static/js/745.25f28223.chunk.js",
     "index.html": "/iti-home1-sprint1/index.html",
-    "main.073c9b0a.css.map": "/iti-home1-sprint1/static/css/main.073c9b0a.css.map",
-    "main.0daa54c9.js.map": "/iti-home1-sprint1/static/js/main.0daa54c9.js.map",
-    "53.f819e912.chunk.js.map": "/iti-home1-sprint1/static/js/53.f819e912.chunk.js.map"
+    "main.af2f1d43.css.map": "/iti-home1-sprint1/static/css/main.af2f1d43.css.map",
+    "main.92580f07.js.map": "/iti-home1-sprint1/static/js/main.92580f07.js.map",
+    "745.25f28223.chunk.js.map": "/iti-home1-sprint1/static/js/745.25f28223.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.0daa54c9.js"
+    "static/css/main.af2f1d43.css",
+    "static/js/main.92580f07.js"
   ]
 }
